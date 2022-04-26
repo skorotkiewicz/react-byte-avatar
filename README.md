@@ -1,6 +1,6 @@
 # react-byte-avatar
 
-> Simple React component to display a uniq avatar from user name.
+> Simple React component to display a unique avatar from user name.
 
 Inspired from this HN post: https://news.ycombinator.com/item?id=30668137
 
@@ -16,7 +16,7 @@ npm i react-byte-avatar
 
 | prop   |  default   |   type |
 | ------ | :--------: | -----: |
-| nick   | _required_ | string |
+| name   | _required_ | string |
 | width  |     18     | number |
 | height |     14     | number |
 
